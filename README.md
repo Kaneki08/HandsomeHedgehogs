@@ -1,4 +1,4 @@
-# HandsomeHedgehogs
+# Team Name: HandsomeHedgehogs
 
 ## 👥 Team Members
 
