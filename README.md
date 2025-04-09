@@ -11,4 +11,4 @@
 | Jake Yunker         | `jyunkerswave`        | 35236312    |
 | Bart Kernan         | ``        | 38716136    |
 | Nick Sepka          | ``         | 75895734    |
-| Antoine Mbok.       | `CodeSlayer9000`     |33583956|
+| Antoine Mbok        | `CodeSlayer9000`     |33583956|
